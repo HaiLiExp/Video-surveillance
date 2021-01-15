@@ -32,4 +32,4 @@ Broadcasting:
 The result image is broadcasted to a IP address by flask and reviewed by a web browser.
 The result can be reviewed simultaneously by multiple PCs. 
 
-
+The screen output of the code ist exemplarily shown in Issue "OK" and "NOK" for the two classification results. The classification result "OK" or "NOK", the date and time is shown on the image, the commandline shows the output values of the machine learning model: less than 0.5 is "NOK", greater than 0.5 is "OK".
