@@ -14,6 +14,7 @@ Software requirement:
 Python, OpenCV, Tensorflow, Flask, browser
 
 Structure of the code "IPCamPredSteaming.py":
+
 Image acquisition:
 The images taken by the video system are streamed by Android APP « IP camera » from smartphone to an URL, and further accessed by a web browser on a PC/cluster. 
 The images are read by the python « requests »  module into the code for further pre-processing
